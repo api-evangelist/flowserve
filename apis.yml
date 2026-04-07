@@ -1,7 +1,11 @@
 aid: flowserve
-url: https://raw.githubusercontent.com/api-evangelist/flowserve/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/flowserve/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.flowserve.com
+description: >-
+  Flowserve moves, controls and protects the flow of materials in the world's most
+  critical industries. Contact a representative today to learn more.
