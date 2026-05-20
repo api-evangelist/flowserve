@@ -20,6 +20,8 @@ tags:
   - Manufacturing
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/flowserve
   - type: Website
     url: https://www.flowserve.com
   - type: RedRaven IIoT
