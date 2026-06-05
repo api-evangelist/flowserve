@@ -1,0 +1,101 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "flo": "https://www.flowserve.com/vocab/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "Flowserve": {
+      "@id": "schema:Organization",
+      "@type": "@id"
+    },
+    "name": "schema:name",
+    "url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "description": "schema:description",
+    "industry": "schema:industry",
+    "foundingDate": "schema:foundingDate",
+    "areaServed": "schema:areaServed",
+    "sameAs": {
+      "@id": "schema:sameAs",
+      "@type": "@id"
+    },
+
+    "Pump": {
+      "@id": "flo:Pump",
+      "@type": "@id"
+    },
+    "Valve": {
+      "@id": "flo:Valve",
+      "@type": "@id"
+    },
+    "Seal": {
+      "@id": "flo:Seal",
+      "@type": "@id"
+    },
+    "FlowControlSystem": {
+      "@id": "flo:FlowControlSystem",
+      "@type": "@id"
+    },
+    "RedRaven": {
+      "@id": "flo:RedRaven",
+      "@type": "@id"
+    },
+    "IIoTMonitoring": {
+      "@id": "flo:IIoTMonitoring",
+      "@type": "@id"
+    },
+    "PredictiveMaintenance": {
+      "@id": "flo:PredictiveMaintenance",
+      "@type": "@id"
+    },
+    "assetId": "flo:assetId",
+    "assetType": "flo:assetType",
+    "operatingCondition": "flo:operatingCondition",
+    "flowRate": {
+      "@id": "flo:flowRate",
+      "@type": "xsd:decimal"
+    },
+    "pressure": {
+      "@id": "flo:pressure",
+      "@type": "xsd:decimal"
+    },
+    "temperature": {
+      "@id": "flo:temperature",
+      "@type": "xsd:decimal"
+    },
+    "vibration": {
+      "@id": "flo:vibration",
+      "@type": "xsd:decimal"
+    },
+    "sensorReading": "flo:sensorReading",
+    "alertThreshold": "flo:alertThreshold",
+    "maintenanceSchedule": "flo:maintenanceSchedule",
+    "serialNumber": "flo:serialNumber",
+    "modelNumber": "flo:modelNumber",
+    "installationDate": {
+      "@id": "flo:installationDate",
+      "@type": "xsd:date"
+    },
+    "site": "flo:site",
+    "plant": "flo:plant",
+    "productLine": "flo:productLine"
+  },
+  "@graph": [
+    {
+      "@type": "schema:Organization",
+      "@id": "https://www.flowserve.com",
+      "name": "Flowserve Corporation",
+      "url": "https://www.flowserve.com",
+      "description": "Flowserve moves, controls and protects the flow of materials in the world's most critical industries through pumps, seals, valves, and flow control systems.",
+      "industry": "Industrial Manufacturing — Flow Control Equipment",
+      "areaServed": "Global",
+      "sameAs": [
+        "https://www.linkedin.com/company/flowserve",
+        "https://www.wikidata.org/wiki/Q5462745"
+      ]
+    }
+  ]
+}

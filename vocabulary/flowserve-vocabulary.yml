@@ -1,0 +1,152 @@
+vocabulary:
+  name: Flowserve Industrial Flow Control Vocabulary
+  description: >-
+    Key industrial and manufacturing concepts for Flowserve Corporation,
+    a global provider of pumps, valves, seals, and flow control systems
+    serving critical infrastructure industries including oil & gas, power
+    generation, water/wastewater, chemical, and general industry.
+  version: "1.0.0"
+  terms:
+
+    - term: Pump
+      definition: >-
+        A mechanical device that moves fluids (liquids or gases) by mechanical
+        action, typically converting rotational motion from an electric motor
+        into hydraulic energy. Flowserve manufactures centrifugal, positive
+        displacement, and other pump types under brands such as Byron Jackson,
+        IDP, and Worthington.
+      tags:
+        - equipment
+        - fluid-handling
+        - rotating-equipment
+
+    - term: Valve
+      definition: >-
+        A device that regulates, directs, or controls the flow of a fluid by
+        opening, closing, or partially obstructing passageways. Flowserve
+        produces gate, globe, ball, butterfly, check, and control valves
+        under brands including Valtek, Durco, and Kammer.
+      tags:
+        - equipment
+        - flow-control
+        - instrumentation
+
+    - term: Mechanical Seal
+      definition: >-
+        A device that joins rotating and stationary components of a pump or
+        compressor to prevent fluid leakage along the shaft. Flowserve is a
+        leading manufacturer of mechanical seals and seal support systems
+        under the BW Seals and GASPAC brands.
+      tags:
+        - equipment
+        - sealing
+        - rotating-equipment
+
+    - term: RedRaven
+      definition: >-
+        Flowserve's Industrial Internet of Things (IIoT) remote monitoring and
+        predictive analytics platform. RedRaven connects physical flow control
+        assets to cloud-based diagnostics, enabling condition monitoring,
+        performance trending, and early anomaly detection for pumps, valves,
+        and seals.
+      tags:
+        - iiot
+        - digital-services
+        - monitoring
+
+    - term: IIoT (Industrial Internet of Things)
+      definition: >-
+        The network of sensors, instrumentation, and connected devices embedded
+        in industrial equipment to collect operational data. In the context of
+        Flowserve, IIoT enables remote asset health monitoring and predictive
+        maintenance for flow control equipment across customer facilities.
+      tags:
+        - iiot
+        - digital-transformation
+        - connectivity
+
+    - term: Predictive Maintenance
+      definition: >-
+        A maintenance strategy that uses real-time sensor data, machine learning,
+        and historical performance baselines to forecast equipment failures before
+        they occur. Flowserve's RedRaven platform delivers predictive maintenance
+        insights for rotating and flow control equipment.
+      tags:
+        - maintenance
+        - analytics
+        - iiot
+
+    - term: Flow Rate
+      definition: >-
+        The volume or mass of fluid that passes through a given cross-section
+        per unit of time, commonly measured in gallons per minute (GPM),
+        cubic meters per hour (m³/h), or kilograms per second (kg/s). A
+        primary operating parameter for all Flowserve pump and valve products.
+      tags:
+        - measurement
+        - fluid-dynamics
+        - operating-parameter
+
+    - term: Differential Pressure
+      definition: >-
+        The difference in pressure between two points in a fluid system,
+        typically across a pump, valve, or flow meter. Critical for sizing
+        flow control equipment and monitoring its health in service.
+      tags:
+        - measurement
+        - fluid-dynamics
+        - operating-parameter
+
+    - term: Condition Monitoring
+      definition: >-
+        The continuous or periodic measurement of physical parameters (vibration,
+        temperature, pressure, noise) from operating equipment to assess its
+        current health state and detect developing faults. A core capability
+        delivered by Flowserve's RedRaven IIoT solution.
+      tags:
+        - maintenance
+        - monitoring
+        - diagnostics
+
+    - term: Flow Control System
+      definition: >-
+        An integrated assembly of pumps, valves, actuators, instrumentation,
+        and controls designed to manage fluid transport and containment within
+        a process plant. Flowserve designs and supplies engineered flow control
+        systems for power, chemical, oil & gas, and water industries.
+      tags:
+        - system
+        - engineering
+        - fluid-handling
+
+    - term: Actuator
+      definition: >-
+        A device that converts a control signal (pneumatic, hydraulic, or
+        electric) into mechanical motion to operate a valve. Flowserve
+        manufactures pneumatic and electric actuators for automated valve
+        control in process plants.
+      tags:
+        - equipment
+        - automation
+        - flow-control
+
+    - term: Mean Time Between Failures (MTBF)
+      definition: >-
+        A reliability metric expressing the average time a repairable asset
+        operates between failures. Used by Flowserve and its customers to
+        benchmark pump and seal performance and set maintenance intervals.
+      tags:
+        - reliability
+        - maintenance
+        - kpi
+
+    - term: Asset Health Index
+      definition: >-
+        A composite score derived from sensor readings, operating history, and
+        failure mode models that summarizes the overall condition of an
+        industrial asset. Flowserve's RedRaven platform generates asset health
+        indices to prioritize maintenance actions.
+      tags:
+        - analytics
+        - iiot
+        - kpi
