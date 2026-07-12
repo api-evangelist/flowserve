@@ -21,6 +21,10 @@ tags:
   - Fortune 1000
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/flowserve-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/flowserve-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/flowserve
   - type: Website
