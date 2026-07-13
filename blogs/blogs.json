@@ -1,14 +1,7 @@
 {
   "repo": "flowserve",
-  "feeds": [
-    {
-      "source": "https://www.flowserve.com",
-      "feed_url": "https://www.flowserve.com/en/news/",
-      "title": "Flowserve News & Press Releases",
-      "saved": 0,
-      "method": "none"
-    }
-  ],
+  "feeds": [],
   "post_count": 0,
-  "fetched": "2026-06-05T00:00:00Z"
+  "fetched": "2026-07-04T12:24:05Z",
+  "note": "no blog feed listed in apis.yml"
 }
