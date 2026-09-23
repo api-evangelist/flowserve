@@ -1,7 +1,9 @@
 ---
 title: Flowserve Corporation Reports Third Quarter 2025 Results
 url: https://ir.flowserve.com/news-events/news-details/2025/Flowserve-Corporation-Reports-Third-Quarter-2025-Results/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Flowserve" press release artificial intelligence'
 position: 1
 source: serpapi-google

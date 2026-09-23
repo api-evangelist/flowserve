@@ -1,7 +1,9 @@
 ---
 title: Flowserve Corporation Terminates Merger with Chart Industries
 url: https://www.sec.gov/Archives/edgar/data/30625/000119312525167110/d59378dex991.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Flowserve" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Flowserve Corporation Reports First Quarter 2026 Results
 url: https://www.businesswire.com/news/home/20260429186812/en/Flowserve-Corporation-Reports-First-Quarter-2026-Results
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Flowserve" press release artificial intelligence'
 position: 4
 source: serpapi-google
