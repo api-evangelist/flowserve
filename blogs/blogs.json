@@ -1,8 +1,16 @@
 {
   "repo": "flowserve",
-  "feeds": [],
+  "feeds": [
+    {
+      "source": "https://www.flowserve.com/rss.xml",
+      "feed_url": "https://www.flowserve.com/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
   "post_count": 0,
-  "fetched": "2026-07-04T12:24:05Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "note": "no blog feed listed in apis.yml",
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
