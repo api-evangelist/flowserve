@@ -9,8 +9,8 @@
       "method": "feed"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-10-10T13:15:00Z",
+  "post_count": 10,
+  "fetched": "2026-10-17T14:53:57Z",
   "note": "no blog feed listed in apis.yml",
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
